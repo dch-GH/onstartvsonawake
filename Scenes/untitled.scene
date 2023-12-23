@@ -1,0 +1,33 @@
+{
+  "GameObjects": [
+    {
+      "Id": "d0da70ca-7cc6-4bbe-8e97-2b7c9980fc1c",
+      "Name": "NetManager",
+      "Position": "92.16515,155.2348,-239.5869",
+      "Enabled": true,
+      "Components": [
+        {
+          "__type": "NetworkHelper",
+          "__enabled": true,
+          "PlayerPrefab": "prefabs/player.prefab",
+          "SpawnPoints": [
+            "d0da70ca-7cc6-4bbe-8e97-2b7c9980fc1c"
+          ],
+          "StartServer": true
+        }
+      ]
+    }
+  ],
+  "SceneProperties": {
+    "FixedUpdateFrequency": 50,
+    "Lerping": true,
+    "MaxFixedUpdates": 5,
+    "NetworkFrequency": 30,
+    "ThreadedAnimation": true,
+    "TimeScale": 1,
+    "UseFixedUpdate": true
+  },
+  "Title": "untitled",
+  "Description": "",
+  "__references": []
+}

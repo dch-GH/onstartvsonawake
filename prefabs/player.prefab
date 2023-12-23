@@ -1,0 +1,18 @@
+{
+  "RootObject": {
+    "Id": "80000c04-3bb0-4d4c-aa17-f20e265061e6",
+    "Name": "player",
+    "Position": "92.16515,155.2348,-239.5869",
+    "Enabled": true,
+    "Components": [
+      {
+        "__type": "MyComponent",
+        "__enabled": true
+      }
+    ]
+  },
+  "ShowInMenu": false,
+  "MenuPath": null,
+  "MenuIcon": null,
+  "__references": []
+}
